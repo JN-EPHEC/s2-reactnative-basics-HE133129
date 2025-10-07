@@ -10,7 +10,6 @@ export default function HomeScreen() {
       <TodoItem text="Learn React Native" />
       <TodoItem text="Build a static UI" />
       <TodoItem text="Practice with StyleSheet" />
-      <TodoItem text="Commit final code to main branch" />
     </View>
   );
 }
