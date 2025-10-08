@@ -14,7 +14,7 @@ export default function HomeScreen() {
   );
 }
 
-
+//C'est ça la modif
 const styles = StyleSheet.create({
   container: {
     flex: 1,
